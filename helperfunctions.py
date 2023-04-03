@@ -63,3 +63,4 @@ def check_and_create_path( path: Path):
 
     if not path.exists():
         path.touch()
+
